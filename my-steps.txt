@@ -93,13 +93,17 @@ Rm -r drinks
 
 
 ### Step 4
+cd Desktop/unit1-js-practice
+git init
+Reinitialized existing Git repository in /Users/brianahunter/Desktop/unit1-git-practice/.git/
 
 
 ### Step 5
-
+git commit -m "First commit for unti1-js-practice"
 
 ### Step 6
-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
+git add .
+git commit -m "starting a menu"
 
 ### Step 7
 *** DO NOT RECORD STEP 7 ***
